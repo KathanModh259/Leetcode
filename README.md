@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KathanModh259/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/KathanModh259/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/KathanModh259/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KathanModh259/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/KathanModh259/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
