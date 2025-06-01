@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KathanModh259/Leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KathanModh259/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KathanModh259/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KathanModh259/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
 ## Math
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KathanModh259/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KathanModh259/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
