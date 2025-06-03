@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/KathanModh259/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/KathanModh259/Leetcode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/KathanModh259/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
