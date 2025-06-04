@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/KathanModh259/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/KathanModh259/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/KathanModh259/Leetcode/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/KathanModh259/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KathanModh259/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KathanModh259/Leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/KathanModh259/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KathanModh259/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/KathanModh259/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
