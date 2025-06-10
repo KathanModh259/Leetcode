@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KathanModh259/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/KathanModh259/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KathanModh259/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KathanModh259/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/KathanModh259/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KathanModh259/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KathanModh259/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KathanModh259/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
