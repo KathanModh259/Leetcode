@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/KathanModh259/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/KathanModh259/Leetcode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/KathanModh259/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/KathanModh259/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KathanModh259/Leetcode/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KathanModh259/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
