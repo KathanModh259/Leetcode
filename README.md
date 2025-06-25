@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KathanModh259/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KathanModh259/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/KathanModh259/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KathanModh259/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KathanModh259/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KathanModh259/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KathanModh259/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KathanModh259/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KathanModh259/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/KathanModh259/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KathanModh259/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KathanModh259/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KathanModh259/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KathanModh259/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KathanModh259/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
