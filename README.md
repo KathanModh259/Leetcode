@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KathanModh259/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/KathanModh259/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Matrix
 |  |
 | ------- |
