@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KathanModh259/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/KathanModh259/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KathanModh259/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/KathanModh259/Leetcode/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KathanModh259/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/KathanModh259/Leetcode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KathanModh259/Leetcode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KathanModh259/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Memoization
 |  |
 | ------- |
