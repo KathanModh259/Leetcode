@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KathanModh259/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KathanModh259/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/KathanModh259/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/KathanModh259/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KathanModh259/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KathanModh259/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KathanModh259/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/KathanModh259/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
