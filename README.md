@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KathanModh259/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KathanModh259/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/KathanModh259/Leetcode/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/KathanModh259/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KathanModh259/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/KathanModh259/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/KathanModh259/Leetcode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KathanModh259/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KathanModh259/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/KathanModh259/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/KathanModh259/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KathanModh259/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KathanModh259/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KathanModh259/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/KathanModh259/Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
