@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KathanModh259/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KathanModh259/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0792-binary-search](https://github.com/KathanModh259/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Math
