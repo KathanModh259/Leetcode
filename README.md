@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KathanModh259/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/KathanModh259/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0792-binary-search](https://github.com/KathanModh259/Leetcode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KathanModh259/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KathanModh259/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KathanModh259/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/KathanModh259/Leetcode/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
