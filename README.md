@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KathanModh259/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/KathanModh259/Leetcode/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KathanModh259/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KathanModh259/Leetcode/tree/master/0455-assign-cookies) |
+| [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KathanModh259/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KathanModh259/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Trie
 |  |
 | ------- |
