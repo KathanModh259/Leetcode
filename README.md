@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/KathanModh259/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/KathanModh259/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/KathanModh259/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
@@ -186,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/KathanModh259/Leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KathanModh259/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KathanModh259/Leetcode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
