@@ -1,13 +1,13 @@
 class Solution {
 public:
-    bool isValid(string word) {  // ✅ changed from isValidWord
+    bool isValid(string word) {  
         if (word.length() < 3) return false;
 
         int asciiSum = 0;
         bool hasVowel = false, hasConsonant = false;
 
         for (char ch : word) {
-            if (!isalnum(ch)) return false; // Invalid character
+            if (!isalnum(ch)) return false; 
 
             if (isalpha(ch)) {
                 asciiSum += ch;
