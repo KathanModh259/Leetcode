@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3396-valid-word](https://github.com/KathanModh259/Leetcode/tree/master/3396-valid-word) |
 ## Trie
 |  |
 | ------- |
