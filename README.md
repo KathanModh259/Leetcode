@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KathanModh259/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KathanModh259/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/KathanModh259/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/KathanModh259/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KathanModh259/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/KathanModh259/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KathanModh259/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/KathanModh259/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/KathanModh259/Leetcode/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/KathanModh259/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
