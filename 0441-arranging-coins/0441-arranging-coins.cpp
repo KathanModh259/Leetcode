@@ -1,12 +1,8 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        long long i = 1, count = 0;
-        while (n >= i) {
-            n -= i;
-            ++count;
-            ++i;
-        }
-        return count;
+        
+        long long nn = (long long)n;
+        return (int)((sqrt(8 * nn + 1) - 1) / 2);
     }
 };
