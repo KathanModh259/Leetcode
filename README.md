@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/KathanModh259/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/KathanModh259/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/KathanModh259/Leetcode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/KathanModh259/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/KathanModh259/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/KathanModh259/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/KathanModh259/Leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/KathanModh259/Leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KathanModh259/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/KathanModh259/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/KathanModh259/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/KathanModh259/Leetcode/tree/master/0682-baseball-game) |
 ## Backtracking
 |  |
