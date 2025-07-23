@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/KathanModh259/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KathanModh259/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KathanModh259/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KathanModh259/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KathanModh259/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KathanModh259/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KathanModh259/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KathanModh259/Leetcode/tree/master/0389-find-the-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KathanModh259/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KathanModh259/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KathanModh259/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/KathanModh259/Leetcode/tree/master/0682-baseball-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KathanModh259/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
