@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KathanModh259/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KathanModh259/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KathanModh259/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/KathanModh259/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/KathanModh259/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KathanModh259/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/KathanModh259/Leetcode/tree/master/0412-fizz-buzz) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KathanModh259/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/KathanModh259/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/KathanModh259/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
