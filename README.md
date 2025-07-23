@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/KathanModh259/Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KathanModh259/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Counting Sort
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KathanModh259/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/KathanModh259/Leetcode/tree/master/3396-valid-word) |
 ## Trie
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KathanModh259/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/KathanModh259/Leetcode/tree/master/0682-baseball-game) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
