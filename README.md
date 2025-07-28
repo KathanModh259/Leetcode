@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KathanModh259/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/KathanModh259/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/KathanModh259/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/KathanModh259/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KathanModh259/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/KathanModh259/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/KathanModh259/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KathanModh259/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KathanModh259/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/KathanModh259/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/KathanModh259/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
