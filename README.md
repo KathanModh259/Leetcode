@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/KathanModh259/Leetcode/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/KathanModh259/Leetcode/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KathanModh259/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/KathanModh259/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/KathanModh259/Leetcode/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
