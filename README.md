@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/KathanModh259/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/KathanModh259/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KathanModh259/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KathanModh259/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KathanModh259/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/KathanModh259/Leetcode/tree/master/1764-maximum-repeating-substring) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KathanModh259/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KathanModh259/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KathanModh259/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KathanModh259/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting Sort
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/KathanModh259/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KathanModh259/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KathanModh259/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/KathanModh259/Leetcode/tree/master/3396-valid-word) |
 ## Trie
 |  |
