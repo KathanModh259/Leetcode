@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/KathanModh259/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/KathanModh259/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/KathanModh259/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/KathanModh259/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1764-maximum-repeating-substring](https://github.com/KathanModh259/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KathanModh259/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/KathanModh259/Leetcode/tree/master/3396-valid-word) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KathanModh259/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/KathanModh259/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
 |  |
 | ------- |
