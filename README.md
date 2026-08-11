@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KathanModh259/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/KathanModh259/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KathanModh259/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KathanModh259/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KathanModh259/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting Sort
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KathanModh259/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1764-maximum-repeating-substring](https://github.com/KathanModh259/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/KathanModh259/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KathanModh259/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/KathanModh259/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KathanModh259/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/KathanModh259/Leetcode/tree/master/3396-valid-word) |
